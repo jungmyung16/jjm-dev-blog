@@ -1,0 +1,8 @@
+label: 'Docusaurus 블로그 개발기'
+position: 2
+collapsible: true
+collapsed: false
+link:
+  type: generated-index
+  title: Docusaurus 블로그 개발기 - 시작하기
+  description: 이 블로그를 만들면서 겪은 과정을 기록합니다.
