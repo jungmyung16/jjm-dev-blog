@@ -13,3 +13,7 @@ slug: /dev-log/intro
 - 쾌적한 집필 환경 (Markdown + Component)
 
 앞으로의 과정을 통해 기술 블로그 구축의 A to Z를 정리해보려 합니다.
+
+:::info 관련 소식
+블로그 오픈 첫 인사는 여기서 볼 수 있습니다: [Hello Docusaurus World](/blog/hello-world)
+:::
