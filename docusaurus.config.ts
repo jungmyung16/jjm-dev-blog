@@ -96,15 +96,16 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        {to: '/blog', label: 'Blog', position: 'left'},
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Dev Notes',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/about', label: 'About', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/facebook/docusaurus', // TODO: Update to your GitHub URL
           label: 'GitHub',
           position: 'right',
         },
