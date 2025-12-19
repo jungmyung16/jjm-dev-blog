@@ -1,0 +1,5 @@
+label: 'Docusaurus 블로그 사용법'
+position: 8
+link:
+  type: generated-index
+  description: 이 블로그에서 글을 작성하는 방법 (Dev Notes, Blog 포스트 작성 가이드)

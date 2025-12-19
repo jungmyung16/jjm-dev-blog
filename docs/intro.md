@@ -2,46 +2,31 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Dev Notes
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**Dev Notes**는 개발 학습 기록, 트러블슈팅, 기술 문서를 정리하는 공간.
 
-## Getting Started
+## 구분 기준
 
-Get started by **creating a new site**.
+*   **Blog**: 이야기, 회고, 생각 흐름 중심 (Chronological)
+*   **Dev Notes**: 기술 제원, 해결 방법, 레퍼런스 중심 (Topical)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 카테고리 구성
 
-### What you'll need
+### 📚 CS (Computer Science)
+자료구조, 알고리즘, 운영체제, 네트워크 등 기초 지식.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### ☕ Java & Spring
+*   **Java**: 언어 기초, JVM, Advanced Features
+*   **Spring**: Spring Boot, MVC, JPA, Security 등 백엔드 기술 스택
 
-## Generate a new site
+### ⚡ Front-end
+*   **JavaScript**: ES6+, 비동기 처리, 런타임 환경
+*   **React**: 컴포넌트, 상태 관리, 렌더링 최적화
 
-Generate a new Docusaurus site using the **classic template**.
+### 🛠 Tools
+*   **Git**: 버전 관리, 브랜치 전략, 협업 워크플로우
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### 📝 가이드
+블로그 및 문서 작성 방법 안내.
+*   [Docusaurus 블로그 사용법](/docs/category/docusaurus-블로그-사용법)

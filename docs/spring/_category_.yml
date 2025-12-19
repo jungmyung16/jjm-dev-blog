@@ -1,0 +1,5 @@
+label: 'Spring'
+position: 4
+link:
+  type: generated-index
+  description: Spring Framework 학습 노트 (Spring Boot, MVC, JPA 등)
