@@ -93,7 +93,7 @@ const config: Config = {
       title: 'My Dev Blog',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},
